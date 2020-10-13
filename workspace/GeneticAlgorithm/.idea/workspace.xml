@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b671cb6c-5710-4252-a801-611cc5aa8b7c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slp/chapter2/AllOnesGA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slp/chapter2/GeneticAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slp/chapter2/Individual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slp/chapter2/Population.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slp/chapter3/GeneticAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slp/chapter3/Individual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slp/chapter3/Maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slp/chapter3/Population.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slp/chapter3/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slp/chapter3/RobotController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slp/chapter4/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slp/chapter4/GeneticAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slp/chapter4/Individual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slp/chapter4/Population.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slp/chapter4/Route.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slp/chapter4/TSP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slp/chapter5/Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slp/chapter5/GeneticAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slp/chapter5/Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slp/chapter5/Individual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slp/chapter5/Module.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slp/chapter5/Population.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slp/chapter5/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slp/chapter5/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slp/chapter5/Timeslot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slp/chapter5/Timetable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/slp/chapter5/TimetableGA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../论文/Hybrid-flow-shop-scheduling-with-sequence-dependent-f_2014_Applied-Mathemati.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../论文/Hybrid-flow-shop-scheduling-with-sequence-dependent-f_2014_Applied-Mathemati.pdf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\devtools\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ipJWzvheneLjqvnqAfhaC3qnlB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/slp" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\论文\Paper\workspace\GeneticAlgorithm\src\main\java\com\slp" />
+      <recent name="E:\论文\Paper\workspace\GeneticAlgorithm\src\main\java\com\slp\chapter2" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b671cb6c-5710-4252-a801-611cc5aa8b7c" name="Default Changelist" comment="" />
+      <created>1602598637783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602598637783</updated>
+      <workItem from="1602598650953" duration="3470000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1602598974288">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1602598974288" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1602602894368">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602602894368" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1602602894368">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602602894368" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1602602894368">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602602894368" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1602602894368">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602602894368" />
+    <state x="349" y="314" key="com.intellij.ide.util.TipDialog" timestamp="1602598676271">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="314" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1602598676271" />
+  </component>
+</project>
